@@ -16,3 +16,5 @@ You are asked to provide an operational Jupyter notebook that performs the task 
 5. (Optional) Providing visual insight about the model (i.e. visualizing the attention if your model is using attention)
 
 Although it is not mandatory, I suggest that you use a transformer model to perform the task. For that, you can use the *Transformer* library by Huggingface.
+
+Lien filesender pour récupérer les poids du modèle : https://filesender.renater.fr/?s=download&token=75ceaacf-521b-49d8-a7c8-2285ef358a31
